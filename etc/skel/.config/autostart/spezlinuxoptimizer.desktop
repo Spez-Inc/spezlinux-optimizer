@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=python3 /usr/bin/spezlinuxoptimizer.py &
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[tr_TR]=spezlinuxoptimizer.desktop
+Name=spezlinuxoptimizer
+Comment[tr_TR]=
+Comment=
